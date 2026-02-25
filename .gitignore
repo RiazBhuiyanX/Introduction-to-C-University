@@ -1,0 +1,9 @@
+*.exe
+
+tempCodeRunnerFile.c
+tempCodeRunnerFile
+
+*.o
+*.obj
+
+.vscode/
